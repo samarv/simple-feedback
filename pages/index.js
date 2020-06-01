@@ -1,7 +1,7 @@
+import { TextStyle } from "@shopify/polaris";
+
 const Index = () => (
-  <div>
-    <p>Sample app using React and Next.js</p>
-  </div>
+  <TextStyle variation="positive">Sample app using React and Next.js</TextStyle>
 );
 
 export default Index;
